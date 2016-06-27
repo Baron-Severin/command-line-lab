@@ -1,13 +1,3 @@
----
-title: Command Line Lab
-type: Lab
-duration: "1:25"
-creator:
-    name: Jay Nappy
-    city: NYC
-standard: Workflow and Devtools
----
-
 # Command Line Lab
 
 ## Introduction
